@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APP01_103A50035</string>
+    <string name="scoreEdit">請輸入整數成績</string>
+    <string name="scoreText">成績:</string>
+    <string name="scoreButton">成績轉換</string>
+    <string name="grade">等第:</string>>
+</resources>
